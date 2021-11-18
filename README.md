@@ -1,4 +1,4 @@
-# carpediemskilab
+# Carpe Diem Ski Lab
 Hackathon project for Technica 2021
 
 ![Jackson.jpeg](Jackson.jpeg)
