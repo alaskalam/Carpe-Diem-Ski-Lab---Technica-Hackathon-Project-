@@ -1,7 +1,11 @@
 # carpediemskilab
 Hackathon project for Technica 2021
 
-![Jackson.jpeg](attachment:Jackson.jpeg)
+![Jackson.jpeg](Jackson.jpeg)
+
+
+
+
 ## Introduction
 
 We are aiming to help introduce people to new ski trip buddies that share their core values.
